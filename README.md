@@ -27,11 +27,11 @@ Open http://127.0.0.1:4173. Edit `build.mjs` for content and shared layouts; edi
 
 Import **this personal repository** into an explicitly verified personal Vercel workspace. Select Other framework, build command `npm run build`, output `dist`, repository root. The included `vercel.json` configures these options and security headers. There are no secrets, bindings or environment variables to supply. No domain purchase is needed.
 
-The existing authenticated Vercel session showed `mianrodev` and the Eric workspace. Personal ownership was not established, so deployment there was intentionally not performed. A local preview is not a public deployment.
+The existing authenticated Vercel session showed `mianrodev` and the Eric workspace. Personal ownership was not established, so deployment there was intentionally not performed. A login attempt using farshaikh17 returned Account not found; a personal Vercel account is needed before deployment. A local preview is not a public deployment.
 
 ## Attribution and evidence
 
-MGL is professional work completed at Mianro Systems; employer ownership, AI-generated implementation and team support are explicit. No company source or datasets are copied here. Parenthood is Farhan's personal project, with substantial AI assistance and honest integration-status limits. Architecture diagrams are original high-level summaries based on public evidence, not application screenshots.
+MGL is professional work completed at Mianro Systems; employer ownership, AI-generated implementation and team support are explicit. No company source or datasets are copied here. Parenthood is Farhan's personal project, with substantial AI assistance and honest integration-status limits. Architecture diagrams are original high-level summaries based on public evidence, not application screenshots. A cropped public MGL search-interface screenshot is included separately, without visitors/listing counters or customer details.
 
 Leadership and experience statements come from Farhan's supplied background. Exact employment dates were not supplied. Lead Scraper and Prospect CRM are excluded because Farhan's project-specific contribution is not verified. No résumé, private email, phone, address or unverified LinkedIn URL is published.
 
