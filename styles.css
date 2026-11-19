@@ -6,3 +6,18 @@
 /* Final spacing and viewport refinements. */
 h1{font-size:clamp(2.6rem,4.5vw,4.6rem)}.hero h1{max-width:18ch}.project-visual .visual-title{margin-top:1.5rem}.case-hero .eyebrow{margin-top:2rem}.case-section p+p{margin-top:1rem}.contact h2{margin-top:1rem}.leadership>.small{margin-top:1.5rem}
 .product-view{margin:0 0 3rem;border:1px solid var(--line);background:white}.product-view img{display:block;width:100%;height:auto}.product-view figcaption{padding:1rem;font-size:.85rem;color:var(--muted)}
+
+.hero { align-items:center; }
+.hero h1 { font-size:clamp(2.35rem,4.6vw,4.6rem); max-width:18ch; }
+.hero-side { background:var(--dark); color:white; padding:clamp(1.4rem,3vw,2.6rem); border-top:5px solid #72cbb5; }
+.hero-side h2 { margin:.7rem 0 1rem; }
+.hero-side .label,.hero-side a { color:var(--mint); }
+.hero-side a { display:inline-block; margin-top:1.2rem; }
+.practice { padding:clamp(1.4rem,3vw,2.5rem); background:#e6f2ef; border-top:3px solid #35685e; }
+.practice:nth-child(2) { background:#edf0fc; border-color:#5166a5; }
+.practice p { margin-top:1rem; }
+.skill-list { margin:2rem 0 0; }
+.skill-list div { display:grid; grid-template-columns:minmax(12rem,1fr) 3fr; gap:1.25rem; padding:1rem 0; border-top:1px solid var(--line); }
+.skill-list dt { font-weight:700; }
+.skill-list dd { margin:0; max-width:72ch; }
+@media(max-width:600px){ .skill-list div { grid-template-columns:1fr; gap:.3rem; } }
