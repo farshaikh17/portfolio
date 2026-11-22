@@ -35,7 +35,7 @@ Production is deployed from `main` in Farhan Shaikh's personal Vercel Hobby work
 
 MGL is professional work completed at Mianro Systems; employer ownership, AI-generated implementation and team support are explicit. No company source or datasets are copied here. Parenthood is Farhan's personal project, with substantial AI assistance and honest integration-status limits. Architecture diagrams are original high-level summaries based on public evidence, not application screenshots. A cropped public MGL search-interface screenshot is included separately, without visitors/listing counters or customer details.
 
-Leadership and experience statements come from Farhan's supplied background. Exact employment dates were not supplied. Lead Scraper and Prospect CRM are excluded because Farhan's project-specific contribution is not verified. No résumé, private email, phone, address is published. The verified public LinkedIn profile is linked in the site.
+Leadership and experience statements come from Farhan's supplied background. Exact employment dates were not supplied. Lead Scraper and Prospect CRM are excluded because Farhan's project-specific contribution is not verified. No résumé, phone or address is published. The public contact email farshaikh17@gmail.com is shown in the contact section and footer; the check allows only that one email link and still blocks phone links. The verified public LinkedIn profile is linked in the site.
 
 ## Validation
 
